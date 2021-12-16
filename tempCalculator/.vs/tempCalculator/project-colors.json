@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5e8a11a-5cfd-4ab9-82d5-e67b0cad698a": {
+      "ProjectGuid": "b5e8a11a-5cfd-4ab9-82d5-e67b0cad698a",
+      "DisplayName": "tempCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\bin\Debug\net6.0-windows\tempCalculator.exe
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\bin\Debug\net6.0-windows\tempCalculator.deps.json
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\bin\Debug\net6.0-windows\tempCalculator.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\bin\Debug\net6.0-windows\tempCalculator.dll
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\bin\Debug\net6.0-windows\ref\tempCalculator.dll
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\bin\Debug\net6.0-windows\tempCalculator.pdb
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\obj\Debug\net6.0-windows\tempCalculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\obj\Debug\net6.0-windows\tempCalculator.Form1.resources
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\obj\Debug\net6.0-windows\tempCalculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\obj\Debug\net6.0-windows\tempCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\obj\Debug\net6.0-windows\tempCalculator.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\obj\Debug\net6.0-windows\tempCalculator.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\obj\Debug\net6.0-windows\tempCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\obj\Debug\net6.0-windows\tempCalculator.dll
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\obj\Debug\net6.0-windows\ref\tempCalculator.dll
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\obj\Debug\net6.0-windows\tempCalculator.pdb
+C:\Users\ASUS\Documents\GitHub\helloworld\tempCalculator\tempCalculator\obj\Debug\net6.0-windows\tempCalculator.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tempCalculator", "tempCalculator\tempCalculator.csproj", "{B5E8A11A-5CFD-4AB9-82D5-E67B0CAD698A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E8A11A-5CFD-4AB9-82D5-E67B0CAD698A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E8A11A-5CFD-4AB9-82D5-E67B0CAD698A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E8A11A-5CFD-4AB9-82D5-E67B0CAD698A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E8A11A-5CFD-4AB9-82D5-E67B0CAD698A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB45E17A-CDED-48B7-9F30-CDEC9381751B}
+	EndGlobalSection
+EndGlobal
